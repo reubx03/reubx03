@@ -1,82 +1,38 @@
 # Hey! I'm Reuben. 👋
 
-AI & Data Science Graduate building production-ready AI systems.
+I'm an AI & Data Science Graduate focused on building production-ready AI applications.
 
-I'm passionate about designing intelligent software that solves real-world business problems through automation, backend engineering, and modern AI.
+Currently, I'm building an Enterprise Document Intelligence Platform using OCR, LLMs, RAG, FastAPI, PostgreSQL, Docker, and n8n.
 
----
-
-## Currently Working On
-
-### Enterprise Document Intelligence Platform
-
-Building a production-ready document processing platform that combines OCR, LLMs, RAG, FastAPI, PostgreSQL, Docker, and n8n to transform unstructured documents into searchable, structured data.
+Everything on this profile is built as part of my journey to become a better engineer through real-world projects.
 
 ---
 
-## Featured Projects
+## Tools & Tech
 
-### Enterprise Document Intelligence Platform
-Production-ready document intelligence platform featuring OCR, AI extraction, vector search, workflow automation, and backend APIs.
-
-### AI Customer Support Automation
-AI-powered customer support workflow built with n8n, OpenAI, Gmail, and business policy validation.
-
----
-
-## Tech Stack
-
-**Languages & Frameworks**
-
-- Python
-- FastAPI
-- SQL
-
-**Databases**
-
-- PostgreSQL
-
-**AI & Automation**
-
-- OpenAI API
-- n8n
-
-**Dev Tools**
-
-- Docker
-- Git
-- GitHub
+- Python, FastAPI, SQL
+- PostgreSQL, Docker
+- OpenAI API, n8n
+- Git & GitHub
 
 ---
 
 ## Currently Learning
 
-- Retrieval-Augmented Generation (RAG)
+- RAG Systems
 - Qdrant
 - AWS
 - LLM Engineering
 
 ---
 
-## What I Enjoy Building
+## A Bit About Me
 
-- AI Automation
-- Production AI Applications
-- Backend Systems
-- RAG Systems
-- LLM Applications
-
----
-
-## Beyond Coding
-
-- Motorcycle enthusiast
-- Gym
-- Love solving problems
-- Always learning
+- 🏍 Motorcycle enthusiast
+- 💪 Gym
+- 🧩 I enjoy solving real-world problems
+- 🧠 Always learning and building
 
 ---
 
-## Contact
-
-Email: **reubmat03@gmail.com**
+📫 **Email:** **reubmat03@gmail.com**
