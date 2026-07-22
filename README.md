@@ -1,10 +1,10 @@
 # Hey! I'm Reuben. 👋
 
-I'm an AI & Data Science Graduate focused on building production-ready AI applications.
+I'm an AI & Data Science Graduate passionate about building intelligent software and production-ready AI systems.
 
-Currently, I'm building an Enterprise Document Intelligence Platform using OCR, LLMs, RAG, FastAPI, PostgreSQL, Docker, and n8n.
+Right now, I'm working on an Enterprise Document Intelligence Platform using OCR, LLMs, RAG, FastAPI, PostgreSQL, Docker, and n8n.
 
-Everything on this profile is built as part of my journey to become a better engineer through real-world projects.
+I enjoy turning complex ideas into simple, practical software that solves real-world problems. Everything on this profile is built from scratch as I continue learning and improving as an engineer.
 
 ---
 
@@ -14,24 +14,17 @@ Everything on this profile is built as part of my journey to become a better eng
 - PostgreSQL, Docker
 - OpenAI API, n8n
 - Git & GitHub
-
----
-
-## Currently Learning
-
-- RAG Systems
-- Qdrant
-- AWS
-- LLM Engineering
+- Currently exploring RAG, Qdrant, and AWS
 
 ---
 
 ## A Bit About Me
 
 - 🏍 Motorcycle enthusiast
-- 💪 Gym
+- 💪 Gym keeps me sane
 - 🧩 I enjoy solving real-world problems
-- 🧠 Always learning and building
+- 🤖 Passionate about AI, automation, and backend systems
+- 📚 Always learning, always building
 
 ---
 
