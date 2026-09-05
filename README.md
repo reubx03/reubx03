@@ -1,20 +1,24 @@
 # Hey! I'm Reuben. 👋
 
-I'm an AI & Data Science Graduate passionate about building intelligent software and production-ready AI systems.
+I'm an AI & Data Science Graduate passionate about building intelligent software, AI applications, and reliable backend systems.
 
-Right now, I'm working on an Enterprise Document Intelligence Platform using OCR, LLMs, RAG, FastAPI, PostgreSQL, Docker, and n8n.
+I enjoy turning ideas into practical solutions, experimenting with new technologies, and understanding how things work under the hood.
 
-I enjoy turning complex ideas into simple, practical software that solves real-world problems. Everything on this profile is built from scratch as I continue learning and improving as an engineer.
+My current focus is on AI Engineering, LLM applications, automation, backend development, APIs, and building production-ready systems.
+
+I believe in learning by building — taking an idea, turning it into something that works, and improving it along the way.
 
 ---
 
 ## Tools & Tech
 
-- Python, FastAPI, SQL
-- PostgreSQL, Docker
+- Python, FastAPI, Pydantic
+- PostgreSQL, SQL, Qdrant
+- Docker, Docker Compose
+- OCR, LLMs, RAG, Embeddings
 - OpenAI API, n8n
 - Git & GitHub
-- Currently exploring RAG, Qdrant, and AWS
+- AWS
 
 ---
 
@@ -28,4 +32,4 @@ I enjoy turning complex ideas into simple, practical software that solves real-w
 
 ---
 
-📫 **Email:** **reubmat03@gmail.com**
+📫 **Email:** [**reubmat03@gmail.com**](mailto\:reubmat03@gmail.com)
